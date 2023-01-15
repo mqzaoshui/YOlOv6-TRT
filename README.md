@@ -82,10 +82,10 @@ make
 </div>
 
 ### v6s trt engine 的640尺寸的推理结果图对比:
-
-<center calss="third">
-    <img src="demo/test/v6_TRT_INT8.png" width = "30%"/>
-    <img src="demo/test/v6_TRT_FP32.png" width = "30%"/>
-    <img src="demo/test/v6_TRT_FP16.png" width = "30%"/>
-</center>
-
+<div align="center">
+    <a href="./">
+        <img src="demo/test/v6_TRT_INT8.png" width = "30%"/>
+        <img src="demo/test/v6_TRT_FP32.png" width = "30%"/>
+        <img src="demo/test/v6_TRT_FP16.png" width = "30%"/>
+    </a>
+</div>
